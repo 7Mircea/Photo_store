@@ -1,0 +1,47 @@
+/* Import Google fonts */
+@import url('https://fonts.googleapis.com/css?family=Lora&display=swap');
+
+.fa:hover {
+	color: darkblue;
+}
+
+.fa {
+	cursor: pointer;
+	font-size: 50px;
+	user-select: none;
+}
+
+.form-div.login {
+  margin-top: 100px;
+}
+
+.form-div {
+  margin: 50px auto 50px;
+  padding: 25px 15px 10px 15px;
+  border: 1px solid #80ced7;
+  border-radius: 5px;
+  font-size: 1.1em;
+  font-family: 'Lora', serif;
+}
+
+form p {
+  font-size: 0.9em;
+}
+
+
+.imagine {
+	max-width: 50%;
+}
+
+.logout {
+  color: red;
+}
+
+.mu {
+	color: red;
+}
+
+.name {
+	font-size: 1.5em;
+	text-align: center;
+}

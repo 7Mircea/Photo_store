@@ -1,0 +1,3 @@
+username email                parola
+mircea	 7mircea.c@gmail.com  1234
+george   george@gmail.com     5678
