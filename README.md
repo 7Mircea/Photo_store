@@ -19,11 +19,12 @@ coloana btn_like)
 - imaginile unui utilizator sunt afisate in ordinea data de numarul de like-uri si data urcarii pe site
 
 Utilizatorii din baza de date:
-Utilizator  Parola
-mircea      1234
-george      5678
-ionut       9101
-marian      1121
-ionel       3141
 
-Student : Gheoace Mircea, 333AA
+|Utilizator  |Parola|
+|------------|------|
+|mircea      |1234  |
+|george      |5678  |
+|ionut       |9101  |
+|marian      |1121  |
+|ionel       |3141  |
+
